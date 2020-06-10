@@ -381,7 +381,7 @@ gulp.task('default', gulp.series('clean:dist', 'copy-assets', gulp.series('html'
 
 gulp.task('build', gulp.series('clean:dist', 'copy-assets', gulp.series('html', 'sass', 'sass-min', 'bootstrapjs', 'mrarejs')));
 
-var gulp        = require('gulp');
+
 var deploy      = require('gulp-gh-pages');
 
 /**
