@@ -1,10 +1,6 @@
-# README #
-
-Jumpstart - SaaS, App and Software Landing page UI Kit by Medium Rare
-
 # Here Lies THY LANDING PAGE for MedLynk
 
-### TO Install ###
+### To Install ###
 The short version:
 
 * npm install -g gulp-cli
