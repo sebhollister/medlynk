@@ -1,33 +1,30 @@
-Hyperspace by HTML5 UP
-html5up.net | @ajlkn
-Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+# README #
 
+Jumpstart - SaaS, App and Software Landing page UI Kit by Medium Rare
 
-So I've had the wireframe for this particular design kicking around for some time, but with all
-the other interesting (and in some cases, semi-secret) projects I've been working on it took me
-a little while to get to actually designing and coding it. Fortunately, things have eased up
-enough for me to finaly get around to it, so I'm happy to introduce Hyperspace: a fun, blocky,
-one-page design with a lot of color, a bit of animation, and an additional "generic" page template
-(because hey, even one-page sites usually need an interior page or two). Hope you dig it :)
+### Where are the docs? ###
 
-Demo images* courtesy of Unsplash, a radtastic collection of CC0 (public domain) images
-you can use for pretty much whatever.
+* Formal documentation is located at http://jumpstart.mediumra.re/documentation/index.html - accessible from the **Documentation** link on most demo pages.
+* You can find lists of the styled components at https://jumpstart.mediumra.re/style-guide.html and https://jumpstart.mediumra.re/plugins.html
 
-(* = not included)
+### Getting Set Up (optional) ###
 
-AJ
-aj@lkn.io | @ajlkn
+Setup instructions are located in the docs mentioned above.
 
+The short version:
 
-Credits:
+* npm install -g gulp-cli
+* npm install
+* gulp
 
-	Demo Images:
-		Unsplash (unsplash.com)
+### Getting Support ###
 
-	Icons:
-		Font Awesome (fontawesome.io)
+Medium Rare provides support for bugfixes and guidance on using the theme.
 
-	Other:
-		jQuery (jquery.com)
-		Scrollex (github.com/ajlkn/jquery.scrollex)
-		Responsive Tools (github.com/ajlkn/responsive-tools)
+To access support, open a ticket at https://mediumrare.ticksy.com/ using your purchase code.
+
+### Giving Feedback ###
+
+We strive to improve our products and we rely on feedback from our customers.
+
+Please feel free to share any feedback about Jumpstart via twitter @mrareweb or feedback(at)mrare.co.
