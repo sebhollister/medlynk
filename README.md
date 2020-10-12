@@ -1,5 +1,11 @@
+<<<<<<< HEAD
 # MedLynk -  PPE Supply / Demand Prediction
 **Note**: This repository holds the code only for the landing page. The actual code base for the project is still private. Feel free to reach out to seb.hollister@gatech.edu and I'd be happy to talk more about the project. 
+=======
+# Here Lies THY LANDING PAGE for MedLynk
+https://badgen.net/github/checks/tunnckoCore/opensource 
+https://badgen.net/badge/icon/vercel?icon=vercel&label
+>>>>>>> 9d0d96918ff253585ba8df02cbaae09138937d45
 
 ![Logo]('pics/logo.png')
 
