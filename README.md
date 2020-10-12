@@ -2,7 +2,7 @@
 
 **Note**: This repository holds the code only for the landing page. The actual code base for the project is still private. Feel free to reach out to seb.hollister@gatech.edu and I'd be happy to talk more about the project. 
 
-**Link** : [ppeburnratecalc.com](ppeburnratecalc.com)
+**Link** : [ppeburnratecalc.com](https://www.ppeburnratecalc.com)
 
 **Awards & More Information**:
 * MedLynk started as one of the **winners** of the [MIT COVID-19 Hackathon](https://www.ece.gatech.edu/news/634109/three-tech-teams-among-winners-mit-covid-19-challenge-event).
