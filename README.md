@@ -1,4 +1,6 @@
 # Here Lies THY LANDING PAGE for MedLynk
+https://badgen.net/github/checks/tunnckoCore/opensource 
+https://badgen.net/badge/icon/vercel?icon=vercel&label
 
 ### To Install ###
 The short version:
