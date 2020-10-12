@@ -20,7 +20,7 @@
 // (see cPanel -> email accounts).  Using an account at your host improves deliverability.
 
 // These are the Outgoing Server (SMTP) details provided by your email host
-$outgoingServerAddress     = ''; // consult your hosting provider.
+$outgoingServerAddress     = 'seb.hollister@gatech.edu'; // consult your hosting provider.
 $outgoingServerPort        = 25;                  // '587' , '25' - consult your hosting provider
 $outgoingServerSecurity    = null;                 // 'ssl' , 'tls' , null - consult your hosting provider.
 
