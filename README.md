@@ -3,15 +3,16 @@
 **Note**: This repository holds the code only for the landing page. The actual code base for the project is still private. Feel free to reach out to seb.hollister@gatech.edu and I'd be happy to talk more about the project. 
 
 **More Information**:
-* MedLynk started as one of the **winners of the [MIT COVID-19 Hackathon]**(https://www.ece.gatech.edu/news/634109/three-tech-teams-among-winners-mit-covid-19-challenge-event).
+* MedLynk started as one of the **winners** of the [MIT COVID-19 Hackathon](https://www.ece.gatech.edu/news/634109/three-tech-teams-among-winners-mit-covid-19-challenge-event).
 * Devloped over Summer 2020 through **$4000 in funding from Georgia Tech CreateX Summer Launch Program**.
-* Mentioned in **Harvard Business Review** (https://hbr.org/2020/07/turn-your-covid-19-solution-into-a-viable-business)
+* Mentioned in [**Harvard Business Review**](https://hbr.org/2020/07/turn-your-covid-19-solution-into-a-viable-business)
 
 **Team**:
-* [Maximilian Hollister (Georgia Tech BME '21)](https://www.linkedin.com/in/maximilianhollister/), [Akash Moozhayil(Georgia Tech ME '20)](https://www.linkedin.com/in/akash-moozhayil-723019142/), [Mike Adamo Georgia Tech BME '21](https://www.linkedin.com/in/mike-adamo/) & [Brandon D'arienzo Georgia Tech ME '21](https://www.linkedin.com/in/brandon-darienzo-767034171/)
-* Developed by: [Sebastian Hollister Georgia Tech CS'21](https://www.linkedin.com/in/sebastian-hollister-625235152/)
+* MedLynk was created by a team of Georgia Tech Undergraduates:
+* [Maximilian Hollister (BME '21)](https://www.linkedin.com/in/maximilianhollister/), [Akash Moozhayil (ME '20)](https://www.linkedin.com/in/akash-moozhayil-723019142/), [Mike Adamo (BME '21)](https://www.linkedin.com/in/mike-adamo/) & [Brandon D'arienzo (ME '21)](https://www.linkedin.com/in/brandon-darienzo-767034171/)
+* Developed by: [Sebastian Hollister (CS'21)](https://www.linkedin.com/in/sebastian-hollister-625235152/)
 
-![Logo](pics/image.png)
+<div style="text-align:center"><img src="pics/image.png" /></div>
 
 ### MedLynk Project Overview
 * Allows hospital supply chain managers to predict their PPE (personal protective equipment) burn rate based on live local data and varying infection rates.
